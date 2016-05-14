@@ -1,0 +1,10 @@
+{
+    "encludeUrl": [
+    	
+       "/mainPage/toMain.action",
+       "/user/toLogin.action",
+       "/user/toReg.action",
+       "/user/reg.action",
+       "/user/login.action"
+    ]
+}
